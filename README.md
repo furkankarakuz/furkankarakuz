@@ -1,16 +1,18 @@
-### Hi there 👋
+### Herkese Merhaba , ben Furkan 👋
 
-<!--
-**furkankarakuz/furkankarakuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Test Image 1](https://thumbs.gfycat.com/BelatedVeneratedKiskadee-small.gif)
+  Üniversite'de Python programlama dilini öğrenmeye başladım.Python üzerinden algoritma,kriptoloji,masaüstü alanında pyqt,internet alanında ise html,css yanında django framework ve selenium üzerinden çalışmalar yapıyorum.Yaklaşık 1 yıldır bölümümün istatistiksel ve yazılım becerimi geliştirmek amaçlı veri bilimiyle uğraşıyorum.
 
-Here are some ideas to get you started:
+![Github_2](https://github-readme-stats.vercel.app/api?username=furkankarakuz&show_icons=true&theme=gradient)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Beni bu hesaplardan takip edebilirsiniz 🙂
+
+<a href="https://www.linkedin.com/in/furkankarakuz"><img src="https://img.shields.io/badge/-Linkedin-2867B2?style=flat-quare&labelColor=white&logo=linkedin&logoColor=2867B2&link=link" width="100" height="25px"></a>
+<a href="https://github.com/furkankarakuz"><img src="http://img.shields.io/badge/-Github-333?style=flat-quare&labelColor=white&logo=Github&logoColor=333&link=link" width="100" height="25px"></a>
+<a href="https://www.kaggle.com/furkankarakuz"><img src="http://img.shields.io/badge/-Kaggle-00ace6?style=flat-quare&labelColor=white&logo=kaggle&logoColor=00ace6&link=link" width="100" height="25px"></a>
+
+
+<a href="https://www.linkedin.com/in/furkankarakuz"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>
+<a href="https://github.com/furkankarakuz"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a>
+<a href="https://www.kaggle.com/furkankarakuz"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a>
+
