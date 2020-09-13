@@ -10,8 +10,3 @@
 <a href="https://github.com/furkankarakuz"><img src="http://img.shields.io/badge/-Github-333?style=flat-quare&labelColor=white&logo=Github&logoColor=333&link=link" width="100" height="25px"></a>
 <a href="https://www.kaggle.com/furkankarakuz"><img src="http://img.shields.io/badge/-Kaggle-00ace6?style=flat-quare&labelColor=white&logo=kaggle&logoColor=00ace6&link=link" width="100" height="25px"></a>
 
-
-<a href="https://www.linkedin.com/in/furkankarakuz"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>
-<a href="https://github.com/furkankarakuz"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a>
-<a href="https://www.kaggle.com/furkankarakuz"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a>
-
