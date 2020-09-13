@@ -3,7 +3,6 @@
 ![Test Image 1](https://thumbs.gfycat.com/BelatedVeneratedKiskadee-small.gif)
   Üniversite'de Python programlama dilini öğrenmeye başladım.Python üzerinden algoritma,kriptoloji,masaüstü alanında pyqt,internet alanında ise html,css yanında django framework ve selenium üzerinden çalışmalar yapıyorum.Yaklaşık 1 yıldır bölümümün istatistiksel ve yazılım becerimi geliştirmek amaçlı veri bilimiyle uğraşıyorum.
 
-![Github_2](https://github-readme-stats.vercel.app/api?username=furkankarakuz&show_icons=true&theme=gradient)
 
 ### Beni bu hesaplardan takip edebilirsiniz 🙂
 
