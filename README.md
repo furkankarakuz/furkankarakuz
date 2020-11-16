@@ -1,7 +1,7 @@
 ### Herkese Merhaba , ben Furkan 👋
 
 ![Test Image 1](https://thumbs.gfycat.com/BelatedVeneratedKiskadee-small.gif)
-  Üniversite'de Python programlama dilini öğrenmeye başladım.Python üzerinden algoritma,kriptoloji,masaüstü alanında pyqt,internet alanında ise html,css yanında django framework ve selenium üzerinden çalışmalar yapıyorum.Yaklaşık 1 yıldır bölümümün istatistiksel ve yazılım becerimi geliştirmek amaçlı veri bilimiyle uğraşıyorum.
+  Matematik ve Bilgisayar Bilimleri mezunuyum. Özellikle veri bilimi ve python programlama dili ile ilgilenen yeni teknolojilere hevesli bir yazılım geliştiricisiyim.Bu alanlardaki bilgimi geliştirmek için eğitimler alıyorum, yarışmalara katılıyorum ve projeler yapıyorum.
 
 
 ### Beni bu hesaplardan takip edebilirsiniz 🙂
