@@ -2,7 +2,7 @@
 
 ![Test Image 1](https://wmaraci.com/blog/resimler/desk-animasyon-serisi2.gif)
 
-Matematik ve Bilgisayar Bilimleri bölümü mezunuyum. Özellikle veri bilimi ve python programlama dili ile ilgilenen yeni teknolojilere hevesli bir yazılım geliştiricisiyim.Bu alanlardaki bilgimi geliştirmek için eğitimler alıyorum, yarışmalara katılıyorum ve projeler yapıyorum.
+I am a graduate in Mathematics and Computer Science. I have over three years of experience in Robotic Process Automation (RPA). Alongside my experience in RPA, I am also undergoing training in Python Programming, Data Analysis, and Machine Learning to enhance my skills. I actively participate in competitive competitions on platforms like Kaggle
 
 
 ### Beni bu hesaplardan takip edebilirsiniz 🙂
