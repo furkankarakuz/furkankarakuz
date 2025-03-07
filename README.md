@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="left">I have a degree in mathematics and computer science. I am interested in Python programming. I am constantly developing my skills in data analysis and machine learning</h3>
+<h1 align="center">Hi 👋 I'm Furkan</h1>
+
+<h2 align="center">Python | RPA | Data Science </h3>
+
+- 🎓 I have a degree in Mathematics and Computer Science.
+- 🐍 Passionate about Python programming and constantly improving my skills.
+- 📊 Working on Data Science, Machine Learning, Deep Learning, and Generative AI projects.
+- 🤖 Interested in AI-driven applications, computer vision, and NLP.
+- 🚀 Exploring cutting-edge AI technologies and building innovative solutions.
+- 💡 Sharing my work on GitHub: github.com/furkankarakuz.
+- 🤝 Open to collaborations and always eager to learn!
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=furkankarakuz&label=Profile%20views&color=0e75b6&style=flat" alt="furkankarakuz" /> </p>
 
