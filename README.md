@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/furkankarakuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkankarakuz" height="30" width="40" /></a>
 <a href="https://kaggle.com/furkankarakuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="furkankarakuz" height="30" width="40" /></a>
+<a href="https://huggingface.co/furkankarakuz" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="furkankarakuz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
