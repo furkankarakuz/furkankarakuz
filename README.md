@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Furkan</h1>
 
-<h2 align="center">Python | RPA | Data Science </h3>
+<h2 align="center">Python | RPA | Data Science | Generative AI  </h3>
 
 - 🎓 I have a degree in Mathematics and Computer Science.
 - 🐍 Passionate about Python programming and constantly improving my skills.
